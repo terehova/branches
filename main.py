@@ -1,3 +1,4 @@
 def maximum(some_list)
-    return max(some_list)y
+     """Get maximum value from list"""
+    return max(some_list)
 

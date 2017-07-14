@@ -8,6 +8,7 @@ def count (some_list):
     """Count elements in list"""
     return len(some_list)
 def check_age(age):
+    """Check age"""
     if age < 18:
        return False
     else:
